@@ -1,4 +1,8 @@
-## 👋 Hi, I'm SoyCodeTrail
+## 👋 Hi, I'm soycodetrail
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 <p>
 📱 <b>Android System Developer</b><br/>
@@ -7,22 +11,35 @@
 📍 Xi'an, China
 </p>
 
-<img align="right"
-     src="https://github-readme-stats-eight-theta.vercel.app/api?username=SoyCodeTrail&show_icons=true&theme=github_dark&hide_border=true" />
-
 ### 📫 Contact
 - Email: 1019296134@qq.com  
-- Blog: 小红书 **「豆奶与程序猫」**
+- Blog: 小红书 <b>「豆奶与程序猫」</b>
 
-<br clear="both"/>
+</td>
+
+<td width="42%" valign="top">
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=soycodetrail&show_icons=true&theme=github_dark&hide_border=true"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soycodetrail&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/SoyCodeTrail/SoyCodeTrail/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/soycodetrail/soycodetrail/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
