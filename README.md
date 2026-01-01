@@ -12,13 +12,6 @@
 ---
 
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoyCodeTrail&show_icons=true&theme=github_dark&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyCodeTrail&layout=compact&theme=github_dark&cache_seconds=86400)
-
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SoyCodeTrail&color=blue" />
 </p>
 
@@ -27,5 +20,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SoyCodeTrail/SoyCodeTrail/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/SoyCodeTrail/SoyCodeTrail/output/github-contribution-grid-snake-dark.svg" />
 </p>
