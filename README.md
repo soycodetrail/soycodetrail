@@ -35,7 +35,16 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SoyCodeTrail&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SoyCodeTrail&color=blue" />
 </p>
 
+---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SoyCodeTrail/SoyCodeTrail/output/github-contribution-grid-snake-dark.svg?v=1"
+    alt="GitHub Contribution Snake"
+  />
+</p>
