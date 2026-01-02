@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm soycodetrail
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=soycodetrail.soycodetrail)
+
 <table>
 <tr>
 <td width="58%" valign="top">
