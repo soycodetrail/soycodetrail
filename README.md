@@ -5,8 +5,8 @@
 <td width="58%" valign="top">
 
 <p>
-📱 <b>Android System Developer</b><br/>
-🧩 Focus on <b>Launcher / Framework</b><br/>
+📱 <b>Android/LLM applications developer</b><br/>
+🧩 Focus on <b>Android:Launcher/Framework LLM:Agent/RAG/MCP/Skills</b><br/>
 🌱 Currently learning: <b>LLM Agents</b><br/>
 📍 Xi'an, China
 </p>
