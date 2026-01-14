@@ -7,8 +7,8 @@
 <td width="58%" valign="top">
 
 <p>
-📱 <b>Android/LLM applications developer</b><br/>
-🧩 Focus on <b>Launcher/Framework</b><br/>
+📱 <b>Full-stack/LLM applications developer</b><br/>
+🧩 Focus on <b>Full-stack Architecture/LLM-powered Apps</b><br/>
 🌱 Currently learning: <b> LLM: Agent/RAG/MCP/Skills</b><br/>
 📍 Xi'an, China
 </p>
