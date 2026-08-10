@@ -1,4 +1,4 @@
-## 👋 Hi, I'm soycodetrail
+## 👋 Hi, I'm soycodetrail（豆奶与程序猫）
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=soycodetrail.soycodetrail)
 
@@ -7,16 +7,20 @@
 <td width="58%" valign="top">
 
 <p>
-<b>Full-stack/LLM applications developer</b><br/>
-Focus on <b>Full-stack Architecture/LLM-powered Apps</b><br/>
-Currently learning: <b> LLM: Agent/RAG/MCP/Skills</b><br/>
+<b>全栈 / LLM 应用开发者</b><br/>
+Focus on <b>Full-stack Architecture / LLM-powered Apps</b><br/>
+Currently learning: <b> LLM: Agent / RAG / MCP / Skills</b><br/>
 📍 Xi'an, China
 </p>
 
-### 📫 Contact
-- Email: dounaichengxumao@gmail.com  
-- Blog: <a href="https://www.xiaohongshu.com/user/profile/619b77a300000000210204d1" target="_blank"><b>小红书 · 豆奶与程序猫</b></a>
-- 💬 Ask me about anything <a href="https://github.com/soycodetrail/soycodetrail/issues" target="_blank"><b>here</b></a>
+### 🌐 技术博客
+- 💻 博客主页：<a href="https://soycodetrail.github.io" target="_blank"><b>soycodetrail.github.io</b></a>（31 篇 Android / Flutter / Vue / AI 实战笔记与学习路线）
+
+### 📫 联系 / 关注我
+- 💬 微信：<b>Yishisiweikongjian</b>（备注「学习」更快通过）
+- 📕 小红书：<a href="https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%A5%B6%E4%B8%8E%E7%A8%8B%E5%BA%8F%E7%8C%AB" target="_blank"><b>豆奶与程序猫</b></a>
+- 📧 Email：dounaichengxumao@gmail.com
+- ❓ 任何问题欢迎 <a href="https://github.com/soycodetrail/soycodetrail/issues" target="_blank"><b>开 issue</b></a>
 
 </td>
 
@@ -38,11 +42,4 @@ Currently learning: <b> LLM: Agent/RAG/MCP/Skills</b><br/>
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/soycodetrail/soycodetrail/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+⭐ 如果我的博客或项目对你有帮助，欢迎 Star / 关注，也欢迎在微信、小红书找到我一起交流学习！
