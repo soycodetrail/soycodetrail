@@ -14,7 +14,7 @@ Currently learning: <b> LLM: Agent / RAG / MCP / Skills</b><br/>
 </p>
 
 ### 🌐 技术博客
-- 💻 博客主页：<a href="https://soycodetrail.github.io" target="_blank"><b>soycodetrail.github.io</b></a>（31 篇 Android / Flutter / Vue / AI 实战笔记与学习路线）
+- 💻 博客主页：<a href="https://soycodetrail.github.io" target="_blank"><b>soycodetrail.github.io</b></a>（Android / Flutter / Vue / AI 实战笔记与学习路线）
 
 ### 📫 联系 / 关注我
 - 💬 微信：<b>Yishisiweikongjian</b>（备注「学习」更快通过）
