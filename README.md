@@ -13,8 +13,14 @@ Currently learning: <b> LLM: Agent / RAG / MCP / Skills</b><br/>
 📍 Xi'an, China
 </p>
 
-### 🌐 技术博客
-- 💻 博客主页：<a href="https://soycodetrail.github.io" target="_blank"><b>soycodetrail.github.io</b></a>（Android / Flutter / Vue / AI 实战笔记与学习路线）
+### 🌐 我的网站
+
+**🚀 主站：[soycodetrail.top](https://soycodetrail.top/)** — 我的数字作品集与 AI 工具箱，所有内容的一站式入口：
+
+- 🤖 [AI 技能工坊](https://soycodetrail.top/skills) — 精选 Agent Skill 合集（绘图 / 写作 / 视频），开箱即用
+- 🎨 [Vibe Coding 作品展](https://soycodetrail.top/vibe-coding) — 全球爆火的 AI 辅助开发作品精选
+- 🔌 [DeepSeek Harness 插件库](https://soycodetrail.top/dsh-plugins) — DeepSeek 生态实用插件合集
+- 💻 技术博客：[soycodetrail.github.io](https://soycodetrail.github.io)（Android / Flutter / Vue / AI 实战笔记与学习路线）
 
 ### 📫 联系 / 关注我
 - 💬 微信：<b>Yishisiweikongjian</b>（备注「学习」更快通过）
